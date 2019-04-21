@@ -1,4 +1,4 @@
-# PieceOfCake.AwsSqs-PuppeteerSharp
+# PieceOfCake.AwsSqs-PuppeteerSharp [![Build status](https://ci.appveyor.com/api/projects/status/4l2b2qnjq4nexuea?svg=true)](https://ci.appveyor.com/project/marcelrienks/pieceofcake-awssqs-puppeteersharp)
 This is a (P)iece(O)f(C)ake or a POC to test both AWS SQS and Puppeteer.
 
 ## AWS SQS
