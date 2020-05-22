@@ -1,5 +1,5 @@
 # PieceOfCake.AwsSqs-PuppeteerSharp
-[![Build Status](https://dev.azure.com/marcelrienks/PieceOfCake.AwsSqs-PuppeteerSharp/_apis/build/status/marcelrienks.PieceOfCake.AwsSqs-PuppeteerSharp?branchName=master)](https://dev.azure.com/marcelrienks/PieceOfCake.AwsSqs-PuppeteerSharp/_build/latest?definitionId=9&branchName=master)  
+![Build](https://github.com/marcelrienks/PieceOfCake.AwsSqs-PuppeteerSharp/workflows/Build/badge.svg)
 This is a (P)iece(O)f(C)ake or a POC to test both AWS SQS and Puppeteer.
 
 ## AWS SQS
